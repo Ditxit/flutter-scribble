@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216986634942",
+    "project_id": "drawpad-c11c2",
+    "storage_bucket": "drawpad-c11c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216986634942:android:5522cec0cb7b2805c82cef",
+        "android_client_info": {
+          "package_name": "com.example.draw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216986634942-kdr2do356ds6m474tgttecadlr2k2p3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdCZFVRwfYoaKrETaCa6WRiS_v6HuLS_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216986634942-kdr2do356ds6m474tgttecadlr2k2p3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
